@@ -16,17 +16,22 @@ body {
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Madimi One', sans-serif;
-    
+
 }
 
 /* header */
 header {
-    background-color: aqua;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
 /* Main Content */
 main {
-    background-color: blue;
+    background-color: rgb(29, 122, 141);
     /* Make main element take up surplus space and push footer to bottom of page */
     flex: 1 0 auto;
 }
