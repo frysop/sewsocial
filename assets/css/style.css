@@ -93,7 +93,20 @@ main {
 
 /* Footer */
 footer {
-    background-color: aquamarine;
+    background-color: #dee6ed;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content:space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding:  5%;
+    color: #53316a;
 }
 
 /*  Media query: tablets and larger (768px and up) */
