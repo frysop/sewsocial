@@ -19,6 +19,11 @@ body {
 
 }
 
+h1, h2, h3 {
+    font-family: 'Madimi One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
 /* header */
 header {
     background-color: #dee6ed;
@@ -38,11 +43,7 @@ header a {
 
 }
 
-h1 {
-    font-family: 'Madimi One', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-}
+
 
 #menu {
     font: size 110%;
@@ -94,9 +95,25 @@ main {
 #hero {
     height: 600px;
     width:100%;
-    background:url("../images/pexels-photo-1266139.jpeg") no-repeat  center center/cover;
+    background:url("../images/pexels-suzy-hazelwood-1266139\ \(1\).jpg") no-repeat  center center/cover;
+    position: relative;
 }
 
+#cover-text {
+    /* Final value sets opacity so it is semi-transparent */
+    background-color: rgba(189, 136, 158,  .7);
+    font-size: 120%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 180px;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color:#53316a;
+}
 /* Footer */
 footer {
     background-color: #dee6ed;
@@ -144,6 +161,12 @@ footer {
     main{
         /* Push main content down to accomodate larger header */
         margin-top: 75px;
+    }
+
+    /* Hero */
+    #cover-text {
+        width: 300px;
+        right: 50px;
     }
 }
 
