@@ -160,6 +160,31 @@ main {
     align-items: center;
     justify-content: center;
 }
+
+
+/* Class times section */
+#times {
+    background: url('../images/pexels-irene-lasus-91462\ \(4\).jpg') no-repeat center/cover;
+    /*handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times > div {
+    color: #53316a;
+    background-color:rgba(219, 189, 202,  .6);
+    padding: 15px;
+    text-align: center;
+    /* Stop Divs wrapping on screens less tha 400px wide
+    Each div will expand to fill the availabel space */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates grid of class time divs over the background image */
+    border: 2px solid #dee6ed;
+}
+#times p {
+    font-weight: bold;
+}
 /* Footer */
 footer {
     background-color: #dee6ed;
@@ -177,6 +202,8 @@ footer {
     padding:  5%;
     color: #53316a;
 }
+
+
 
 /*  Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
