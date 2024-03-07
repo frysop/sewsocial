@@ -152,7 +152,7 @@ main {
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
-    /* Make the square image a cirlle */
+    /* Make the square image a circle */
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
@@ -193,6 +193,7 @@ main {
 #photos img {
     width:100%;
 }
+   
 
 /* Footer */
 footer {
@@ -212,7 +213,13 @@ footer {
     color: #53316a;
 }
 
-
+/* Media query: large or landscape phoned (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }    
+}
 
 /*  Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -268,6 +275,11 @@ footer {
         text-align: end;
         align-self: flex-end;
     }
+
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -276,6 +288,10 @@ footer {
         border-bottom: 1px solid #53316a;
     }
     
+    /* Gallery */
+    #photos {
+        column-count: 4;
+    }
 }
 
 /* Larger screens (1200px and up) */
