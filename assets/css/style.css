@@ -99,7 +99,7 @@ main {
 #hero {
     height: 600px;
     width:100%;
-    background:url("../images/pexels-suzy-hazelwood-1266139\ \(1\).jpg") no-repeat  center center/cover;
+    background:url("../images/pexels-suzy-hazelwood-1266139\ \(1\).webp") no-repeat  center center/cover;
     position: relative;
 }
 
@@ -148,7 +148,7 @@ main {
 }
 
 #circle-cover-bg {
-    background: url(../images/pexels-suzy-hazelwood-1122844.jpg) no-repeat top center / cover;
+    background: url(../images/pexels-suzy-hazelwood-1122844.webp) no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -167,7 +167,7 @@ main {
 
 /* Class times section */
 #times {
-    background: url('../images/pexels-irene-lasus-91462\ \(4\).jpg') no-repeat center/cover;
+    background: url('../images/pexels-irene-lasus-91462\ \(4\).webp') no-repeat center/cover;
     /*handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
@@ -188,6 +188,12 @@ main {
 #times p {
     font-weight: bold;
 }
+
+/* Gallery styles */
+#photos img {
+    width:100%;
+}
+
 /* Footer */
 footer {
     background-color: #dee6ed;
