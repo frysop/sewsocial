@@ -214,6 +214,24 @@ footer {
         width: 300px;
         right: 50px;
     }
+
+    /* Reasons Section */
+    #benefits-skills,
+    #benefits-social {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #benefits-skills > div,
+    #benefits-social > div {
+        width: 75%;
+    }
+
+    #benefits-social > div {
+        text-align: end;
+        align-self: flex-end;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -222,4 +240,33 @@ footer {
         border-bottom: 1px solid #53316a;
     }
     
+}
+
+/* Larger screens (1200px and up) */
+@media screen and (min-width: 1200px) {
+    /* Reasons Section */
+    #benefits {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #benefits > div {
+        flex: 1;
+    }
+    
+    #benefits-image {
+        order: 0;
+    }
+
+    #benefits-social {
+        order: 1;
+    }
+
+    #benefits-social > div {
+        align-self: flex-start;
+    }
+
+    #benefits-skills > div {
+        align-self: flex-end;
+    }
 }
