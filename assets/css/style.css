@@ -16,6 +16,7 @@ body {
     /* Generic project styles */
     color: #53316a;
     font-family: 'roboto', sans-serif;
+    background-color: #dbbdca;
 
 }
 
@@ -101,7 +102,7 @@ main {
 
 #cover-text {
     /* Final value sets opacity so it is semi-transparent */
-    background-color: rgba(189, 136, 158,  .7);
+    background-color: rgba(219, 189, 202,  .7);
     font-size: 120%;
     position: absolute;
     bottom: 30px;
@@ -113,6 +114,32 @@ main {
 
 #cover-text > h2, #cover-text > h3 {
     color:#53316a;
+}
+
+/* Reasons section */
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#benefits-skills > div,
+#benefits-social >div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p {
+    padding: 0 20px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
 }
 /* Footer */
 footer {
