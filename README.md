@@ -108,6 +108,8 @@ In this section you need to reference where you got your content, media and extr
 
 You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
+hex to RGB color converter rapidtables.compixelied.com-convert jpg images to webp
+
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
