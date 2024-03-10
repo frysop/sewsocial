@@ -1,3 +1,4 @@
+/* Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 
@@ -52,7 +53,7 @@ header a {
 }
 
 #menu {
-    font: size 110%;
+    font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
 }
@@ -247,7 +248,7 @@ main {
 #machine-rental {
     width: 100%;
     display: flex;
-    justify-content:flex-start;
+    justify-content: flex-start;
     padding: 10px 0 0 0;
 }
 
@@ -263,6 +264,7 @@ main {
     background-color: #53316a;
     color: #dee6ed;
 }
+
 /* Footer */
 footer {
     background-color: #dee6ed;
@@ -365,7 +367,7 @@ footer {
         max-width: 400px;
         position: absolute;
         left: 10%;
-        top: 150px;        
+        top: 150px;
     }
 
     .text-input:hover {
@@ -391,7 +393,7 @@ footer {
         column-count: 4;
     }
 
-   
+
 }
 
 /* Larger screens (1200px and up) */
@@ -424,6 +426,6 @@ footer {
     }
 
     #signup-form {
-        top:100px;
+        top: 100px;
     }
 }
