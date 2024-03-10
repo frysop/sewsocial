@@ -390,6 +390,8 @@ footer {
     #photos {
         column-count: 4;
     }
+
+   
 }
 
 /* Larger screens (1200px and up) */
@@ -419,5 +421,9 @@ footer {
 
     #benefits-skills>div {
         align-self: flex-end;
+    }
+
+    #signup-form {
+        top:100px;
     }
 }
