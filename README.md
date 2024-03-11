@@ -72,15 +72,11 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ![Gallery](/assets/media/gallery.png)
 
-- __The Sign Up Page__
+### The Sign Up Page
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to their class of choice and start their sewing journey. The user will be asked to submit their full name and email address. Th.e user can also request to borrow a sewing machine
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Sign Up](/assets/media/signup.png)
 
 ### Features Left to Implement
 
