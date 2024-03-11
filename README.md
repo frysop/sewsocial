@@ -17,9 +17,8 @@ The site will also show how the classes incorporate social interaction and mutua
     ![Fonts](/assets/media/fonts.png)
 
     
-### Navigation Bar and Hero Image  
+### Navigation Bar  
 
-####Navigation Bar
 
   - Featured on all three pages, the fully responsive navigation bar includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation and a positive user experience. There is a toggle feature for mobile devices. Clicking on the logo will return the user to the home page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
@@ -34,18 +33,21 @@ The site will also show how the classes incorporate social interaction and mutua
 
 
 ### Hero Image  
--The large background image is designed to catch the users attention. It demonstrate exactly what the site is all about.  The colours of the background image were used to generate a palette of colours for use in the styling of the website, further improving the user experience and reinforcing the brand image.  
+-The large background image is designed to catch the users attention. It demonstrates exactly what the site is all about.  The colours of the background image were used to generate a palette of colours for use in the styling of the website, further improving the user experience and reinforcing the brand image.  
 
 -The Logo and Location are displayed clearly in a text overlat to allow the user to see exactly if the location of the classes are suitable for their needs.
 
 ![Landing Page](/assets/media/homehero.png)
 
-- __Club Ethos Section__
+### Reasons to Sew Section
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+ - This section allows users to see the classes availabel and gives them an idea of what new skill they can learn in each class.
+ - Users will see the social side of the classes with a link to the gallery page, showing pohots of other users socialising. 
+ - Users can access the gallery from this section to see what previous class attendes have made, encouraging them to imagine what they could create if they took up sewing.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+
+![Reasons to Sew](/assets/media/sewReasons.png)
+
 
 - __Meetup Times section__
 
