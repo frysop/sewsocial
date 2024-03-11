@@ -12,14 +12,24 @@ The site will also show how the classes incorporate social interaction and mutua
 -__Styling Choices__
     -I generated a color paletet from (https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e "coolors.co")
     ![Palette colours](/assets/media/sew%20social.png)
-    -I chose Madimi one and Roboto from (https://fonts.google.com/ "Google Fonts.")
+    -I chose **Madimi one** and **Roboto** from (https://fonts.google.com/ "Google Fonts.")
+    ![Fonts](/assets/media/fonts.png)
+    
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the fully responsive navigation bar includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation. There is a toggle feature for mobile devices. Clicking on the logo will return the user to the home page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+ 
+  **Mobile Screen Display**
+![Nav Bar for mobile scereens](/assets/media/navMobile.png)
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+**Larger Screen Display**
+![Nav Bar for Larger Screens](/assets/media/navTablet.png)
+
+
+
+
 
 - __The landing page image__
 
