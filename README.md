@@ -64,12 +64,13 @@ The site will also show how the classes incorporate social interaction and mutua
   - Users are encouraged to search for pictures class creations on social media using the #sewsocialmakes.
   ![Footer](/assets/media/footer.png)
 
-- __Gallery__
+### Gallery
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with images of previous class mates creations. 
+  - The  images will show the user what they can achieve at the classes.
+  - The User will see photos of class members socialising and drinking coffee on breaks emphasising the friendly aspect of the classes.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](/assets/media/gallery.png)
 
 - __The Sign Up Page__
 
