@@ -5,7 +5,7 @@ Sew Social is a site that allows people interested to sewing to find information
 The site will also show how the classes incorporate social interaction and mutual support in each class. The site will allow users without their own sewing machine to rent one from a limited number of stock.
 
 ![Responsive screens](/assets/media/amiresponsive.png)
---
+
 
 
 
