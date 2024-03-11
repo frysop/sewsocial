@@ -109,6 +109,11 @@ In this section you need to reference where you got your content, media and extr
 You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 hex to RGB color converter rapidtables.compixelied.com-convert jpg images to webp
+tinyPNG.com-compress images to make site more responsive
+All images are from pexels.com
+coolors.com- used hero image to generate pallettes. https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e
+
+
 
 ### Content 
 
