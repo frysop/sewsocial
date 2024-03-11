@@ -6,6 +6,8 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ![Responsive screens](/assets/media/amiresponsive.png)  
 
+link to the live site here:(https://github.com/frysop/sewsocial)
+
 
 ## Features 
 
@@ -80,7 +82,8 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ### Features Left to Implement
 
-- Another feature idea
+- I would like to add direct links to social media pages showing our creations.
+- As the class numbers grow I would like to offer longer sewing workshops focusing on different ideas, such as bag making, formal wear etc. There would be seperate html pages and signup sections for this.
 
 ## Testing 
 
