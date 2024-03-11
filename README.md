@@ -10,8 +10,8 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ### Existing Features
 -__Styling Choices__
-    -I generated a color paletet from (https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e "coolors.co")
-    ![Palette colours](/assets/media/sew%20social.png)
+    -I generated a color palette from (https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e "coolors.co")
+    ![Palette colours](/assets/media/palette.png)
     -I chose **Madimi one** and **Roboto** from (https://fonts.google.com/ "Google Fonts.")
     ![Fonts](/assets/media/fonts.png)
     
