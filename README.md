@@ -53,17 +53,16 @@ The site will also show how the classes incorporate social interaction and mutua
 ### Class Times Section
 
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+- This section will allow the user to see exactly when and where the classes will happen.the meetups will happen. They can choose a class based on time, location and or ability. 
+- This section will be updated if there are changes or more classes are added. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Class times/location](/assets/media/classtimes.png)
 
-- __The Footer__ 
+### The Footer
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+  - The footer section includes links to the relevant social media sites for Sew Social. The links will open to a new tab to allow easy navigation for the user. 
+  - Users are encouraged to search for pictures class creations on social media using the #sewsocialmakes.
+  ![Footer](/assets/media/footer.png)
 
 - __Gallery__
 
