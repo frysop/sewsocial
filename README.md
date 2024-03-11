@@ -33,9 +33,9 @@ The site will also show how the classes incorporate social interaction and mutua
 
 
 ### Hero Image  
--The large background image is designed to catch the users attention. It demonstrates exactly what the site is all about.  The colours of the background image were used to generate a palette of colours for use in the styling of the website, further improving the user experience and reinforcing the brand image.  
+ -The large background image is designed to catch the users attention. It demonstrates exactly what the site is all about.  The colours of the background image were used to generate a palette of colours for use in the styling of the website, further improving the user experience and reinforcing the brand image.  
 
--The Logo and Location are displayed clearly in a text overlat to allow the user to see exactly if the location of the classes are suitable for their needs.
+ -The Logo and Location are displayed clearly in a text overlat to allow the user to see exactly if the location of the classes are suitable for their needs.
 
 ![Landing Page](/assets/media/homehero.png)
 
