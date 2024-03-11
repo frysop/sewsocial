@@ -42,7 +42,7 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ### Reasons to Sew Section
 
- - This section allows users to see the classes availabel and gives them an idea of what new skill they can learn in each class.
+ - This section allows users to see the classes available and gives them an idea of what new skill they can learn in each class.
  - Users will see the social side of the classes with a link to the gallery page, showing pohots of other users socialising. 
  - Users can access the gallery from this section to see what previous class attendes have made, encouraging them to imagine what they could create if they took up sewing.
 
