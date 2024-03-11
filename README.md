@@ -6,16 +6,16 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ![Responsive screens](/assets/media/amiresponsive.png)  
 
-link to the live site here:[https://github.com/frysop/sewsocial]
+link to the live site here:https://github.com/frysop/sewsocial
 
 
 ## Features 
 
 ### Colour Scheme
-- I generated a color palette from https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e] "coolors.co"
+- I generated a color palette from https://coolors.co
     ![Palette colours](/assets/media/palette.png)  
 ### Typography
-- I chose **Madimi one** and **Roboto** from [https://fonts.google.com/] Google Fonts, with Sans Serif as a backup font in case the fonts are not imported into the site correctly. The fonts are easy to read and attractive for this less formal website.
+- I chose **Madimi one** and **Roboto** from https://fonts.google.com Google Fonts, with Sans Serif as a backup font in case the fonts are not imported into the site correctly. The fonts are easy to read and attractive for this less formal website.
     ![Fonts](/assets/media/fonts.png)
 
     
