@@ -1,16 +1,18 @@
 # Sew Social
 
-Sew Social is a site that allows people interested to sewing to find information about sewing classes in Carn Community Center.  The site is targeted towards users interested in starting sewing and users interested in improving their skills.  
+Sew Social is a site that allows people interested to sewing to find information about sewing classes in Carn and Clonmanhy Community Centers.  The site is for users of all levels with beginner and improver classes.
 
 The site will also show how the classes incorporate social interaction and mutual support in each class. The site will allow users without their own sewing machine to rent one from a limited number of stock.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive screens](/assets/media/amiresponsive.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
+-__Styling Choices__
+    -I generated a color paletet from (https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e "coolors.co")
+    ![Palette colours](/assets/media/sew%20social.png)
+    -I chose Madimi one and Roboto from (https://fonts.google.com/ "Google Fonts.")
 
 - __Navigation Bar__
 
@@ -120,6 +122,7 @@ coolors.com- used hero image to generate pallettes. https://coolors.co/palette/8
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
 
 ### Media
 
