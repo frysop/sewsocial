@@ -9,19 +9,19 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ## Features 
 
--__Colour Scheme__
-    -I generated a color palette from (https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e "coolors.co")
+### Colour Scheme
+- I generated a color palette from (https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e "coolors.co")
     ![Palette colours](/assets/media/palette.png)  
--__Typography__
-    -I chose **Madimi one** and **Roboto** from (https://fonts.google.com/ "Google Fonts."), with Sans Serif as a backup font in case the fonts are not imported into the site correctly. The fonts are easy to read and attractive for this less formal website.
+### Typography
+- I chose **Madimi one** and **Roboto** from (https://fonts.google.com/ "Google Fonts."), with Sans Serif as a backup font in case the fonts are not imported into the site correctly. The fonts are easy to read and attractive for this less formal website.
     ![Fonts](/assets/media/fonts.png)
 
     
 ### Navigation Bar  
 
 
-  - Featured on all three pages, the fully responsive navigation bar includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation and a positive user experience. There is a toggle feature for mobile devices. Clicking on the logo will return the user to the home page.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+- Featured on all three pages, the fully responsive navigation bar includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation and a positive user experience. There is a toggle feature for mobile devices. Clicking on the logo will return the user to the home page.
+- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
  
   **Mobile Screen Display-**
 
@@ -33,9 +33,10 @@ The site will also show how the classes incorporate social interaction and mutua
 
 
 ### Hero Image  
- -The large background image is designed to catch the users attention. It demonstrates exactly what the site is all about.  The colours of the background image were used to generate a palette of colours for use in the styling of the website, further improving the user experience and reinforcing the brand image.  
 
- -The Logo and Location are displayed clearly in a text overlat to allow the user to see exactly if the location of the classes are suitable for their needs.
+- The large background image is designed to catch the users attention. It demonstrates exactly what the site is all about.  The colours of the background image were used to generate a palette of colours for use in the styling of the website, further improving the user experience and reinforcing the brand image.  
+
+- The Logo and Location are displayed clearly in a text overlat to allow the user to see exactly if the location of the classes are suitable for their needs.
 
 ![Landing Page](/assets/media/homehero.png)
 
