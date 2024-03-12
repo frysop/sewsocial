@@ -55,22 +55,22 @@ link to the live site here:https://github.com/frysop/sewsocial
 ### Class Times Section
 
 
-- This section will allow the user to see exactly when and where the classes will happen.the meetups will happen. They can choose a class based on time, location and or ability. 
-- This section will be updated if there are changes or more classes are added. 
+- This section will allow the user to see exactly when and where the classes will happen. They can choose a class based on time, location and or ability. 
+- This section will be updated if there are time/location changes or more classes are added. 
 
 ![Class times/location](/assets/media/classtimes.png)
 
 ### The Footer
 
   - The footer section includes links to the relevant social media sites for Sew Social. The links will open to a new tab to allow easy navigation for the user. 
-  - Users are encouraged to search for pictures class creations on social media using the #sewsocialmakes.
+  - Users are encouraged to search for pictures class creations on social media using #sewsocialmakes.
   ![Footer](/assets/media/footer.png)
 
 ### Gallery
 
   - The gallery will provide the user with images of previous class mates creations. 
   - The  images will show the user what they can achieve at the classes.
-  - The User will see photos of class members socialising and drinking coffee on breaks emphasising the friendly aspect of the classes.
+  - The User will see photos of class members socialising and drinking coffee on breaks emphasising the friendly, supporting ethos of the classes.
 
 ![Gallery](/assets/media/gallery.png)
 
@@ -82,24 +82,25 @@ link to the live site here:https://github.com/frysop/sewsocial
 
 ### Features Left to Implement
 
-- I would like to add direct links to social media pages showing our creations.
+- I would like to add direct links to social media pages showing class creations.
 - As the class numbers grow I would like to offer longer sewing workshops focusing on different ideas, such as bag making, formal wear etc. There would be seperate html pages and signup sections for this.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+ - Tested on Chrome, Firefox and Safari -correctly displayed and responsive on all browsers.
+        - All links to social media are working and open in a new page.
+        - All internal links work..
+        - The Line under the links in the nav bar is active on each correct page.
+        - The signup form works as expected and returns the Code Institute form dump page.
+ - Code was tested and during writeup and errors  were fixed at the time.
+        - I found a solution to removimg the small line under each picture in the gallery from stackoverflow.com. I set the line height to zero.
 
 ### Validator Testing 
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+#HTML
+ - All HTML pages were tested through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+    - The index.html page returned no errors.
+    - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a headding and made it invisible using css.
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
