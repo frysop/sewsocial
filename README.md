@@ -116,9 +116,9 @@ All HTML pages were tested through the official [W3C validator]
 - All Icons used were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
-All images are from pexels.com
-Hex colours to RGC converted on rapidtables.com
-pixelied.com-convert jpg images to webp
-tinyPNG.com-compress images to make site more responsive
-coolors.com- used hero image to generate pallettes https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e
-Stackoverflow.com-removing lines under pictures in Gallery.
+ - All images are from pexels.com
+ - Hex colours to RGC converted on rapidtables.com
+ - pixelied.com-convert jpg images to webp
+ - tinyPNG.com-compress images to make site more responsive
+ - coolors.com- used hero image to generate pallettes https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e
+ - Stackoverflow.com-removing lines under pictures in Gallery.
