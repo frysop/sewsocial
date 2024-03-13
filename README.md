@@ -19,7 +19,8 @@ link to the live site here:https://frysop.github.io/sewsocial
     ![Fonts](/assets/media/fonts.png)
 
     
-### Navigation Bar  
+### Navigation Bar
+
 
 - Featured on all three pages, the fully responsive navigation bar includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation and a positive user experience. There is a toggle feature for mobile devices. 
 - Clicking on the logo will return the user to the home page.
