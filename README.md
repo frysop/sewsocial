@@ -109,16 +109,16 @@ All HTML pages were tested through the official [W3C validator](https://validato
 - The site was deployed to GitHub pages. The link to the github repository can be found here -https://github.com/frysop/sewsocial.git
 - link to the live site here:https://frysop.github.io/sewsocial
 
-### Credits 
+## Credits 
 
-## Content 
+### Content 
 - Code Institure Love Running module.
 - All Icons used were taken from [Font Awesome](https://fontawesome.com/)
 
-## Media
- - All images are from pexels.com
- - Hex colours to RGC converted on rapidtables.com
- - pixelied.com-convert jpg images to webp
- - tinyPNG.com-compress images to make site more responsive
- - coolors.com- used hero image to generate pallettes https://coolors.co/palette/8b79ab-965190-53316a-dee6ed-bd889e
- - Stackoverflow.com-removing lines under pictures in Gallery.
+### Media
+ - All images are from [pexels.com](https://pexels.com)
+ - Hex colours to RGC converted on [rapidtables.com](https://rapidtables.com)
+ - convert jpg images to webp [pixelied.com](https://pixelied.com/)
+ - -compress images to make site more responsive[tinyPNG.com](https://tinypng.com/)
+ - [coolors.co](https://coolors.co)- used hero image to generate pallettes https://coolors.co
+ - [Stackoverflow.com](https://Stackoverflow.com)-removing lines under pictures in Gallery.
