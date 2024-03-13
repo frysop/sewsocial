@@ -6,7 +6,7 @@ The site will also show how the classes incorporate social interaction and mutua
 
 ![Responsive screens](/assets/media/amiresponsive.png)  
 
-link to the live site here:https://github.com/frysop/sewsocial
+link to the live site here:https://frysop.github.io/sewsocial
 
 
 ## Features 
@@ -112,13 +112,8 @@ link to the live site here:https://github.com/frysop/sewsocial
 
 ### Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here - https://frysop.github.io/sewsocial/signup.html 
-
+- The site was deployed to GitHub pages. The link to the github repository can be found here -https://github.com/frysop/sewsocial.git
+- link to the live site here:https://frysop.github.io/sewsocial
 
 ### Credits 
 
