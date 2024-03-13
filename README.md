@@ -80,24 +80,24 @@ link to the live site here:https://frysop.github.io/sewsocial
 - I would like to add direct links to social media pages showing class creations.
 - As the class numbers grow I would like to offer longer sewing workshops (day/weekend) focusing on a specific design, such as bag making, formal wear etc. There would be seperate HTML pages and signup sections for this.
 
-### Testing 
+## Testing 
  - Tested on Chrome, Firefox and Safari -correctly displayed and responsive on all browsers.
-        - All links to social media are working and open in a new page.
-        - All internal links work.
-        - The Line under the links in the nav bar is active on each correct page.
-        - The signup form works as expected and returns the Code Institute form dump page.
- - Code was tested and during writeup and errors  were fixed at the time.
+    - All links to social media are working and open in a new page.
+    - All internal links work.
+    - The Line under the links in the nav bar is active on each correct page.
+    - The signup form works as expected and returns the Code Institute form dump page.
+ - Code was tested during writeup and errors were fixed at the time.
         - I found a solution to removing the small line under each picture in the gallery from stackoverflow.com by setting the line height to zero.
 
-### Validator Testing 
+## Validator Testing 
 
-# HTML
-    - All HTML pages were tested through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-    - The index.html page returned no errors.
-    - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a headding and made it invisible using css.
-    - The signup.html page returned the following error:![Signup error](/assets/media/formerrors.png) I removes the duplication and it didn't affect the final look of the website.
+### HTML-Testing
+All HTML pages were tested through the official [W3C validator]
+ - The index.html page returned no errors.
+ - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a headding and made it invisible using css.
+ - The signup.html page returned the following error:![Signup error](/assets/media/formerrors.png) I removes the duplication and it didn't affect the final look of the website.
 
-# CSS
+### CSS-Testing
   - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css):![CSS error](/assets/media/csserror.png)
 
 ### Unfixed Bugs
