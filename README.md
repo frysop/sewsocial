@@ -89,16 +89,16 @@ link to the live site here:https://frysop.github.io/sewsocial
  - Code was tested during writeup and errors were fixed at the time.
         - I found a solution to removing the small line under each picture in the gallery from stackoverflow.com by setting the line height to zero.
 
-## Validator Testing 
+
 
 ### HTML-Testing
-All HTML pages were tested through the official [W3C validator]
+All HTML pages were tested through the official [W3C validator](https://validator.w3.org/nu)
  - The index.html page returned no errors.
  - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a headding and made it invisible using css.
  - The signup.html page returned the following error:![Signup error](/assets/media/formerrors.png) I removes the duplication and it didn't affect the final look of the website.
 
 ### CSS-Testing
-  - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css):![CSS error](/assets/media/csserror.png)
+  - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator):![CSS error](/assets/media/csserror.png)
 
 ### Unfixed Bugs
 
