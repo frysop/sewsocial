@@ -87,7 +87,7 @@ link to the live site here:https://frysop.github.io/sewsocial
     - The Line under the links in the nav bar is active on each correct page.
     - The signup form works as expected and returns the Code Institute form dump page.
  - Code was tested during writeup and errors were fixed at the time.
-        - I found a solution to removing the small line under each picture in the gallery from stackoverflow.com by setting the line height to zero.
+        - I found a solution to removing the small line under each picture in the gallery from [geeksforgeeks.com](https://www.geeksforgeeks.org/how-to-get-rid-of-the-gap-under-the-image/) by setting the line height to zero.
 
 
 
@@ -110,7 +110,7 @@ All HTML pages were tested through the official [W3C validator](https://validato
 - link to the live site here:https://frysop.github.io/sewsocial
 
 ## Credits 
-
+- Line removal under pictures in gallery-[geeksforgeeks.com](https://www.geeksforgeeks.org/how-to-get-rid-of-the-gap-under-the-image/)
 ### Content 
 - Code Institure Love Running module.
 - All Icons used were taken from [Font Awesome](https://fontawesome.com/)
@@ -121,4 +121,3 @@ All HTML pages were tested through the official [W3C validator](https://validato
  - convert jpg images to webp [pixelied.com](https://pixelied.com/)
  - -compress images to make site more responsive[tinyPNG.com](https://tinypng.com/)
  - [coolors.co](https://coolors.co)- used hero image to generate pallettes https://coolors.co
- - [Stackoverflow.com](https://Stackoverflow.com)-removing lines under pictures in Gallery.
