@@ -40,7 +40,6 @@ link to the live site here:https://frysop.github.io/sewsocial
 
 - The large colourful background image is designed to catch the users attention. It demonstrates exactly what the site is all about. 
 - The Logo and Location are displayed clearly in a text overlay to allow the user to see if the classes are suitable for their needs.
-
 ![Landing Page](/assets/media/heroimage.png)
 
 ### Reasons to Sew Section
@@ -81,7 +80,7 @@ link to the live site here:https://frysop.github.io/sewsocial
 
 ## Testing 
  - Tested on Chrome, Firefox and Safari -correctly displayed and responsive on all browsers. 
- - Tested on IPhone, IPad, Macbook, laptop and android mobile phone.
+ - Tested on IPhone, IPad, Macbook, laptop and android mobile phone-cprrectly displayed on all devices.
 
     - All links to social media are working and open in a new page.
     - All internal links work.
@@ -101,8 +100,16 @@ All HTML pages were tested through the official [W3C validator](https://validato
 ### CSS-Testing
   - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator):![CSS error](/assets/media/csserror.png). I corrected the syntax and the error cleared.![CSS Error Cleared](/assets/media/cssNoError.png)
 
+### Lighthouse
+    Lighthouse revealed a weak performance especially in the gallery page due to the large images used. I changed the images for smaller sizes resulting in an improvement in performance.
+
+     - Home page:![Index Lighthouse](/assets/media/indexLighthouse.png)
+     - gallery page before change in image size:![Gallery LH before](/assets/media/imagelighthousebefore.png)
+     - Gallery page after changes:![Gallery LH after](/assets/media/galleryafter.png)
+     - Signup page before image size change:![Signup before](/assets/media/lighthouseSignup.png)
+     - Signuo page after changes:![Signup after](/assets/media/signupafterlighthouse.png)
 ### Unfixed Bugs
--
+- N/A
 
 ### Deployment
 
@@ -118,14 +125,18 @@ All HTML pages were tested through the official [W3C validator](https://validato
 
 ## Credits 
 
+### Code Used
+
 - Line removal under pictures in gallery-[geeksforgeeks.com](https://www.geeksforgeeks.org/how-to-get-rid-of-the-gap-under-the-image/)
-### Content 
 - Code Institute Love Running module.
 - All Icons used were taken from [Font Awesome](https://fontawesome.com/)
+- Hex colours to RGC converted on [rapidtables.com](https://rapidtables.com)
+- convert jpg images to webp [pixelied.com](https://pixelied.com/)
+- -compress images to make site more responsive[tinyPNG.com](https://tinypng.com/)
+- [coolors.co](https://coolors.co)- used hero image to generate pallettes https://coolors.co
 
+### Content
+- Text content written by myself
 ### Media
  - All images are from [pexels.com](https://pexels.com)
- - Hex colours to RGC converted on [rapidtables.com](https://rapidtables.com)
- - convert jpg images to webp [pixelied.com](https://pixelied.com/)
- - -compress images to make site more responsive[tinyPNG.com](https://tinypng.com/)
- - [coolors.co](https://coolors.co)- used hero image to generate pallettes https://coolors.co
+ 
