@@ -2,7 +2,7 @@
 
 Sew Social allows people interested in sewing to find information about sewing classes in the inishowen area.  The website is for all levels of sewers, with differnt levels of classes offered in two seperate locations. Users will be inspired by looking at photos of previous creations made in previous classes by looking at the gallery page.
 
-The site will also show how the classes encourage social interaction and mutual support in each class. The site will allow users interested in starting sewing to borrow a sewing maching before commiting to the expense of buying a machine.
+The site will also show how the classes encourage social interaction and mutual support in each class. It will aslo allow users interested in sewing to borrow a sewing machine before commiting to the expense of buying one.
 
 ![Responsive screens](/assets/media/amiresponsive.png)  
 
@@ -12,7 +12,7 @@ link to the live site here:https://frysop.github.io/sewsocial
 ## Features 
 
 ### Colour Scheme
-- I generated a color palette from https://coolors.co
+- I generated a colour palette from https://coolors.co
     ![Palette colours](/assets/media/palette.png)  
 ### Typography
 - I chose **Madimi one** and **Roboto** from https://fonts.google.com Google Fonts, with Sans Serif as a backup font in case the fonts are not imported into the site correctly. The fonts are easy to read and attractive for this less formal website.
@@ -44,7 +44,7 @@ link to the live site here:https://frysop.github.io/sewsocial
 
 ### Reasons to Sew Section
  - This section allows users to see the types of classes available and gives them an idea of what new skill they can learn in each class.
- - Users will see the social side of the classes with a link to the gallery page, showing pohots of other users socialising. 
+ - Users will see the social side of the classes with a link to the gallery page, showing photos of other users socialising. 
  - Users can access the gallery from this section to see what previous class attendes have made, encouraging them to imagine what they could create if they took up sewing.
 
 ![Reasons to Sew](/assets/media/sewReasons.png)
@@ -94,7 +94,7 @@ link to the live site here:https://frysop.github.io/sewsocial
 ### HTML-Testing
 All HTML pages were tested through the official [W3C validator](https://validator.w3.org/nu)
  - The index.html page returned no errors.![Html No Error](/assets/media/htmlNoErrors.png)
- - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a headding and made it invisible using css. This cleared all errors. ![Gallery No Error](/assets/media/galleryNoError.png)
+ - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a heading and made it invisible using css. This cleared all errors. ![Gallery No Error](/assets/media/galleryNoError.png)
  - The signup.html page returned the following error:![Signup error](/assets/media/formerrors.png) I removed the duplication and it cleared the error.![Signup No Error](/assets/media/signupNoError.png)
 
 ### CSS-Testing
@@ -133,7 +133,7 @@ Lighthouse revealed a weak performance especially in the gallery page due to the
 - All Icons used were taken from [Font Awesome](https://fontawesome.com/)
 - Hex colours to RGC converted on [rapidtables.com](https://rapidtables.com)
 - convert jpg images to webp [pixelied.com](https://pixelied.com/)
-- -compress images to make site more responsive[tinyPNG.com](https://tinypng.com/)
+- compress images to make site more responsive [tinyPNG.com](https://tinypng.com/)
 - [coolors.co](https://coolors.co)- used hero image to generate pallettes https://coolors.co
 
 ### Content
