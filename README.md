@@ -1,6 +1,6 @@
 # Sew Social
 
-Sew Social allows people interested in sewing to find information about sewing classes in the inishowen.  The website is for all levels of sewers, with differnt levels of classes offered in two seperate locations. Users will be inspired by looking at photos of previous creations made in the classes by class members.
+Sew Social allows people interested in sewing to find information about sewing classes in the inishowen area.  The website is for all levels of sewers, with differnt levels of classes offered in two seperate locations. Users will be inspired by looking at photos of previous creations made in previous classes by looking at the gallery page.
 
 The site will also show how the classes encourage social interaction and mutual support in each class. The site will allow users interested in starting sewing to borrow a sewing maching before commiting to the expense of buying a machine.
 
@@ -80,7 +80,7 @@ link to the live site here:https://frysop.github.io/sewsocial
 
 ## Testing 
  - Tested on Chrome, Firefox and Safari -correctly displayed and responsive on all browsers. 
- - Tested on IPhone, IPad, Macbook, laptop and android mobile phone-cprrectly displayed on all devices.
+ - Tested on IPhone, IPad, Macbook, laptop and android mobile phone-correctly displayed on all devices.
 
     - All links to social media are working and open in a new page.
     - All internal links work.
@@ -101,13 +101,14 @@ All HTML pages were tested through the official [W3C validator](https://validato
   - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator):![CSS error](/assets/media/csserror.png). I corrected the syntax and the error cleared.![CSS Error Cleared](/assets/media/cssNoError.png)
 
 ### Lighthouse
-    Lighthouse revealed a weak performance especially in the gallery page due to the large images used. I changed the images for smaller sizes resulting in an improvement in performance.
+Lighthouse revealed a weak performance especially in the gallery page due to the large images used. I changed the images for smaller sizes resulting in an improvement in performance.
 
-     - Home page:![Index Lighthouse](/assets/media/indexLighthouse.png)
-     - gallery page before change in image size:![Gallery LH before](/assets/media/imagelighthousebefore.png)
-     - Gallery page after changes:![Gallery LH after](/assets/media/galleryafter.png)
-     - Signup page before image size change:![Signup before](/assets/media/lighthouseSignup.png)
-     - Signuo page after changes:![Signup after](/assets/media/signupafterlighthouse.png)
+ - Home page:![Index Lighthouse](/assets/media/indexLighthouse.png)
+ - gallery page before change in image size:![Gallery LH before](/assets/media/imagelighthousebefore.png)
+ - Gallery page after changes:![Gallery LH after](/assets/media/galleryafter.png)
+ - Signup page before image size change:![Signup before](/assets/media/lighthouseSignup.png)
+ - Signup page after changes:![Signup after](/assets/media/signupafterlighthouse.png)
+
 ### Unfixed Bugs
 - N/A
 
@@ -115,12 +116,12 @@ All HTML pages were tested through the official [W3C validator](https://validato
 
 - The site was deployed to GitHub pages. 
 - The link to the github repository can be found here -https://github.com/frysop/sewsocial.git
-    1 Log in to [github](https://github.com/)
-    2 Search for the repository frysop/sewsocial or click on the link above.
-    3 Select the settings menu.
-    4 In the left hand menu under Code and Automation, select the pages tab.
-    5 Under the Build and Deployment section, select main from the branch menu. Then select root from the dropdown folder tab and save.
-    6 The URL for the live site will be listed at the top of the page(It may take a few minutes to appear and a browser refresh).
+    1. Log in to [github](https://github.com/)
+    2. Search for the repository frysop/sewsocial or click on the link above.
+    3. Select the settings menu.
+    4. In the left hand menu under Code and Automation, select the pages tab.
+    5. Under the Build and Deployment section, select main from the branch menu. Then select root from the dropdown folder tab and save.
+    6. The URL for the live site will be listed at the top of the page(It may take a few minutes to appear and a browser refresh).
 - link to the live site here:https://frysop.github.io/sewsocial
 
 ## Credits 
