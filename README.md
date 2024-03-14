@@ -98,21 +98,27 @@ All HTML pages were tested through the official [W3C validator](https://validato
  - The signup.html page returned the following error:![Signup error](/assets/media/formerrors.png) I removed the duplication and it cleared the error.![Signup No Error](/assets/media/signupNoError.png)
 
 ### CSS-Testing
-  - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator):![CSS error](/assets/media/csserror.png). I corrected the syntax and the error cleared.[CSS Error Cleared](/assets/media/cssNoError.png)
+  - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator):![CSS error](/assets/media/csserror.png). I corrected the syntax and the error cleared.![CSS Error Cleared](/assets/media/cssNoError.png)
 
 ### Unfixed Bugs
-
- - Not aplicable
+-
 
 ### Deployment
 
-- The site was deployed to GitHub pages. The link to the github repository can be found here -https://github.com/frysop/sewsocial.git
+- The site was deployed to GitHub pages. 
+- The link to the github repository can be found here -https://github.com/frysop/sewsocial.git
+    1 Log in to [github](https://github.com/)
+    2 Search for the repository frysop/sewsocial or click on the link above.
+    3 Select the settings menu.
+    4 In the left hand menu under Code and Automation, select the pages tab.
+    5 Under the Build and Deployment section, select main from the branch menu. Then select root from the dropdown folder tab and save.
+    6 The URL for the live site will be listed at the top of the page(It may take a few minutes to appear and a browser refresh).
 - link to the live site here:https://frysop.github.io/sewsocial
 
 ## Credits 
 - Line removal under pictures in gallery-[geeksforgeeks.com](https://www.geeksforgeeks.org/how-to-get-rid-of-the-gap-under-the-image/)
 ### Content 
-- Code Institure Love Running module.
+- Code Institute Love Running module.
 - All Icons used were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
