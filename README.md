@@ -1,6 +1,6 @@
 # Sew Social
 
-Sew Social allows people interested in sewing to find information about sewing classes in the inishowen.  The website is for all leves of sewers, with differnt levels of classes offered in two seperate locations. Users will be inspired by looking at photos of previous creations made in the classes by class members.
+Sew Social allows people interested in sewing to find information about sewing classes in the inishowen.  The website is for all levels of sewers, with differnt levels of classes offered in two seperate locations. Users will be inspired by looking at photos of previous creations made in the classes by class members.
 
 The site will also show how the classes encourage social interaction and mutual support in each class. The site will allow users interested in starting sewing to borrow a sewing maching before commiting to the expense of buying a machine.
 
@@ -38,11 +38,10 @@ link to the live site here:https://frysop.github.io/sewsocial
 
 ### Hero Image  
 
-- The large background image is designed to catch the users attention. It demonstrates exactly what the site is all about. The colours of the background image were used to generate a palette of colours for use in the styling of the website, further improving the user experience and reinforcing the brand image as they explore the different pages.  
-
+- The large colourful background image is designed to catch the users attention. It demonstrates exactly what the site is all about. 
 - The Logo and Location are displayed clearly in a text overlay to allow the user to see if the classes are suitable for their needs.
 
-![Landing Page](/assets/media/homehero.png)
+![Landing Page](/assets/media/heroimage.png)
 
 ### Reasons to Sew Section
  - This section allows users to see the types of classes available and gives them an idea of what new skill they can learn in each class.
