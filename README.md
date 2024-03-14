@@ -93,12 +93,12 @@ link to the live site here:https://frysop.github.io/sewsocial
 
 ### HTML-Testing
 All HTML pages were tested through the official [W3C validator](https://validator.w3.org/nu)
- - The index.html page returned no errors.
- - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a headding and made it invisible using css.
- - The signup.html page returned the following error:![Signup error](/assets/media/formerrors.png) I removes the duplication and it didn't affect the final look of the website.
+ - The index.html page returned no errors.![Html No Error](/assets/media/htmlNoErrors.png)
+ - The gallery.html page returned a syntax error: ![Gallery Error](/assets/media/galleryhtmlerrors.png) I corrected those errors and ran the code again. It returned a warning error:![Gallery Warning](/assets/media/gallerywarning.png) I added a headding and made it invisible using css. This cleared all errors. ![Gallery No Error](/assets/media/galleryNoError.png)
+ - The signup.html page returned the following error:![Signup error](/assets/media/formerrors.png) I removed the duplication and it cleared the error.![Signup No Error](/assets/media/signupNoError.png)
 
 ### CSS-Testing
-  - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator):![CSS error](/assets/media/csserror.png)
+  - One error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator):![CSS error](/assets/media/csserror.png). I corrected the syntax and the error cleared.[CSS Error Cleared](/assets/media/cssNoError.png)
 
 ### Unfixed Bugs
 
