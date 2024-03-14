@@ -176,7 +176,7 @@ main {
 
 /* Class times section */
 #times {
-    background: url('../images/pexels-irene-lasus-91462\ \(4\).webp') no-repeat center/cover;
+    background: url('../images/pexels-irene-lasus-91462.webp') no-repeat center/cover;
     /*handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
@@ -204,7 +204,7 @@ main {
 
     width: 100%;
 }
-
+/* Code to remove line under images from geeksforgeeks.org https://www.geeksforgeeks.org/how-to-get-rid-of-the-gap-under-the-image */
 #photos {
     line-height: 0;
 }
