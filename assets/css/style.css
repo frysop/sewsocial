@@ -107,14 +107,14 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/pexels-photo-1266139.webp") no-repeat center center/cover;
+    background: url("../images/pexels-towfiqu-barbhuiya-14569653.webp") no-repeat center center/cover;
     position: relative;
 }
 
 #cover-text {
     /* Final value sets opacity so it is semi-transparent */
     background-color: rgba(219, 189, 202, .7);
-    font-size: 120%;
+    font-size: 130%;
     position: absolute;
     bottom: 30px;
     width: 80%;
@@ -330,8 +330,11 @@ footer {
 
     /* Hero */
     #cover-text {
-        width: 300px;
+        width: 450px;
         right: 50px;
+        font-size:200%;
+        padding-bottom: 50px;
+        
     }
 
     /* Reasons Section */
