@@ -81,7 +81,9 @@ link to the live site here:https://frysop.github.io/sewsocial
 - As the class numbers grow I would like to offer longer sewing workshops (day/weekend) focusing on a specific design, such as bag making, formal wear etc. There would be seperate HTML pages and signup sections for this.
 
 ## Testing 
- - Tested on Chrome, Firefox and Safari -correctly displayed and responsive on all browsers.
+ - Tested on Chrome, Firefox and Safari -correctly displayed and responsive on all browsers. 
+ - Tested on IPhone, IPad, Macbook, laptop and android mobile phone.
+
     - All links to social media are working and open in a new page.
     - All internal links work.
     - The Line under the links in the nav bar is active on each correct page.
@@ -116,6 +118,7 @@ All HTML pages were tested through the official [W3C validator](https://validato
 - link to the live site here:https://frysop.github.io/sewsocial
 
 ## Credits 
+
 - Line removal under pictures in gallery-[geeksforgeeks.com](https://www.geeksforgeeks.org/how-to-get-rid-of-the-gap-under-the-image/)
 ### Content 
 - Code Institute Love Running module.
